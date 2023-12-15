@@ -1,10 +1,8 @@
 # Portfolio
 
-- Deployed at Netlify and Github pages
+- Deployed at Netlify and Github pages) 
 
-- vercel (coming soon) 
-
-[Netlify demo link](https://jayparmar.netlify.app/)
+[Netlify demo link](https://tirthasawant.netlify.app/)
 
 
-[Live Demo link](https://jay-2000.github.io/portfolio/)
+[Live Demo link](#)
